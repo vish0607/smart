@@ -1,0 +1,2 @@
+# smart
+I am smart
